@@ -1,0 +1,48 @@
+
+li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 50px;
+
+}
+.top-nav{
+    background: black;
+    color: white;
+   position: relative;
+   height: 38px;
+    
+}
+.top-nav .links{
+    position: absolute;
+    top:8px;
+}
+.top-nav .btnn{
+    position: absolute;
+    right: 40px;
+    top: -3px;
+}
+nav .cont{
+    height:70px;
+
+}
+.cont{
+    font-size: 13px;
+    color: black;
+   
+   
+}
+.cont ul{
+    padding-top: 5px;
+}
+.cont ul li a{
+    color:black;
+   padding-top: 5px;
+
+}
+main{
+    margin-top:-12px; 
+}
+.section img{
+    height:300px;
+    width: 100%
+}
